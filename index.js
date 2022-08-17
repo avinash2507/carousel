@@ -40,7 +40,7 @@ function updateImage() {
   clickOut = setTimeout(() => {
     currentImage++;
     updateImage();
-  }, 20000);
+  }, 5000);
   
 }
 
