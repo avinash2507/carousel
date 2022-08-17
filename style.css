@@ -12,7 +12,7 @@ h1{
     left:50%   ; 
     transform :translateX(-50%);
     color: wheat;
-    text-shadow: 3px 2px 4px rgba(255, 255, 255,0.6);
+    text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.6);
 }
 .main-container{
     position: relative;
